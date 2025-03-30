@@ -27,7 +27,7 @@ First roll: <br/>
 <br />
 <br />
 Second roll: <br/>
-<img src="(https://github.com/Coy0000/diceroll/blob/main/Capture3.PNG)" height="80%" width="80%" alt="Second roll"/>
+<img src="[https://github.com/Coy0000/diceroll/blob/main/Capture3.PNG]" height="80%" width="80%" alt="Second roll"/>
 <br />
 <br />
 Exit: <br/>
