@@ -16,24 +16,25 @@ This project was built to practice working with:
 
 
 ## How it works:
-
 <p align="center">
 Type 0 and press enter to start: <br/>
-<img src="(https://github.com/Coy0000/diceroll/blob/main/Capture1.PNG)" height="80%" width="80%" alt="Start"/>
+<img src="https://github.com/Coy0000/diceroll/blob/main/Capture1.PNG" height="80%" width="80%" alt="Start"/>
 <br />
 <br />
 First roll: <br/>
-<img src="(https://github.com/Coy0000/diceroll/blob/main/Capture2.PNG)" height="80%" width="80%" alt="First roll"/>
+<img src="https://github.com/Coy0000/diceroll/blob/main/Capture2.PNG" height="80%" width="80%" alt="First roll"/>
 <br />
 <br />
 Second roll: <br/>
-<img src="[https://github.com/Coy0000/diceroll/blob/main/Capture3.PNG]" height="80%" width="80%" alt="Second roll"/>
+<img src="https://github.com/Coy0000/diceroll/blob/main/Capture3.PNG" height="80%" width="80%" alt="Second roll"/>
 <br />
 <br />
 Exit: <br/>
-<img src="(https://github.com/Coy0000/diceroll/blob/main/Capture4.PNG)" height="80%" width="80%" alt="Exit"/>
+<img src="https://github.com/Coy0000/diceroll/blob/main/Capture4.PNG" height="80%" width="80%" alt="Exit"/>
 <br />
 <br />
+</p>
+
 
 ### Future Improvements
 
